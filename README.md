@@ -1,1 +1,2 @@
- advanced sql injection vunerable detection  
+ advanced sql injection vunerable detection   scanner
+ 
