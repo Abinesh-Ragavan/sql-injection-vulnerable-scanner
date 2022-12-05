@@ -1,0 +1,12 @@
+____________________________________________________
+                       Report                       
+____________________________________________________
+The url is: https://www.sastra.edu/search.html?searchword=bdbb&searchphrase=all
+
+scanning...
+            .....
+                   searching....
+                                 Connecting!!!!!
+
+[+] Detected 2 forms on https://www.sastra.edu/search.html?searchword=bdbb&searchphrase=all.
+False
